@@ -9,4 +9,4 @@ This project will focus on creating static adventures that will not generate con
 1. In a live dynamic game, AI API must be called each turn which costs money; even if it is $0.0001. In a static game, will be no AI API cost just to play the game.
 2. Game can be played offline.
 3. By creating limited scope static games, I learn how to impose structure; lessons I can apply to dynamic games later.
-4. 
+
